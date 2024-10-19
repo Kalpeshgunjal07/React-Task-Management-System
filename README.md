@@ -1,4 +1,3 @@
-# Images from the app:
 
 ## Technical:
 
