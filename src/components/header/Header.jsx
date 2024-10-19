@@ -8,7 +8,7 @@ function Header() {
 
       <div className='d-flex w-100 align-items-center justify-content-between'>
           <a href="/" className='logo d-flex align-items-center'>
-              <h2>TMS</h2>
+              <h2>Tasks..</h2>
           </a>
       </div>
 
