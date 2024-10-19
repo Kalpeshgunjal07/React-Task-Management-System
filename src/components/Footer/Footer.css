@@ -1,0 +1,55 @@
+/* Footer styles */
+.footer {
+    background-color: #141E30;
+    padding: 20px;
+    position: fixed; /* Fix the footer to the bottom */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+    color: #fff;
+  }
+  
+  .footer-content {
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .footer-icons {
+    gap: 30px; /* Increase space between icons (change this value as needed) */
+    align-items: center;
+    display: inline-flex;
+    padding-top: 2%;
+}
+
+  
+  .footer-icons a {
+    color: #fff;
+    font-size: 1.5rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .footer-icons a:hover {
+    transform: scale(1.2);
+    color: #1DA1F2;
+  }
+  
+  /* Make the footer responsive */
+  @media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+    }
+    
+    .footer-icons {
+        margin-top: 10px;
+    }
+  }
+  
