@@ -1,4 +1,5 @@
-
+- ## Description-
+- The React Task Management System allows users to log in using a default username and password. After logging in, users can add, edit, and delete tasks, as well as update their statuses. The application stores task data in local storage, ensuring that users can manage their tasks efficiently. This project highlights the use of React for building dynamic user interfaces and managing state.
 ## Technical:
 
 - React.js + Context + CSS.
