@@ -1,13 +1,5 @@
 # Images from the app:
 
-Dummy Login Page :)
-
-![Login](https://res.cloudinary.com/dzxbbqq4l/image/upload/v1710179960/tms-login_ujfoun.png)
-
-Detailed View: A list of all tasks with detailed information after added.
-
-![tasks](https://res.cloudinary.com/dzxbbqq4l/image/upload/v1710179960/tms-app_bjipoa.png)
-
 ## Technical:
 
 - React.js + Context + CSS.
