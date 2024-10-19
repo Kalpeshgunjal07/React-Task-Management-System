@@ -1,4 +1,4 @@
-/* Footer styles */
+
 .footer {
     background-color: #141E30;
     padding: 20px;
@@ -24,7 +24,7 @@
   }
   
   .footer-icons {
-    gap: 30px; /* Increase space between icons (change this value as needed) */
+    gap: 30px;
     align-items: center;
     display: inline-flex;
     padding-top: 2%;
@@ -42,7 +42,7 @@
     color: #1DA1F2;
   }
   
-  /* Make the footer responsive */
+
   @media (max-width: 768px) {
     .footer-content {
         flex-direction: column;
